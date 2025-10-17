@@ -1,0 +1,12 @@
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\controller\HabitController.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\dto\request\HabitRequest.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\dto\response\HabitResponse.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\exception\GlobalExceptionHandler.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\HabitTrackerApplication.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\model\Habit.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\model\Progress.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\model\User.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\repository\HabitRepository.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\repository\ProgressRepository.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\repository\UserRepository.java
+C:\Users\Windows\Downloads\habittracker\src\main\java\com\habits\habittracker\service\HabitService.java
