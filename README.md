@@ -1,5 +1,5 @@
 # Kaizen-
-6. Manual de Instalación y Configuración
+*Manual de Instalación y Configuración*
 Pasos de instalación:
 1.	Descargar el proyecto: Obtener el código fuente desde el repositorio GitHub o el archivo ZIP.
 2.	Instalar dependencias: Ejecutar ./mvnw clean install para descargar todas las dependencias necesarias.
@@ -14,7 +14,7 @@ Notas adicionales:
 •	Si se utiliza MySQL, asegurarse de que el servicio esté corriendo.
 •	En caso de errores de conexión, revisar los parámetros en application.properties.
 •	El entorno recomendado incluye Java 17, Maven 3.8+, y un IDE como IntelliJ IDEA o Eclipse.
-7. Instrucciones para la Ejecución del Proyecto
+*Instrucciones para la Ejecución del Proyecto*
 •	Requisitos previos:
 o	Java JDK 17 o superior
 o	Maven 3.8 o superior
